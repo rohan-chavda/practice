@@ -1,3 +1,3 @@
 # practice
 practice
-conflict 2
+practise two
